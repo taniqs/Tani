@@ -5,9 +5,9 @@ Run official ngrok in termux
 ```bash
 pkg update -y
 pkg install git
-git clone https://github.com/Yisus7u7/termux-ngrok
+git clone https://github.com/taniqs/Tani
 
-cd termux-ngrok
+cd Tani
 bash install.sh
 ```
 
