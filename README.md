@@ -1,0 +1,2 @@
+# Tani
+Scrip termux
